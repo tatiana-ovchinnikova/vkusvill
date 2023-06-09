@@ -22,7 +22,7 @@
 <p> - определены задачи, которые выполняет интернет-магазин ВкусВилл,</p>
 <p> - составлен Тест план (https://docs.google.com/document/d/1DsxYXStw699YCASqyW3ryqghhIdahrXm/edit?usp=sharing&ouid=108477592822745695092&rtpof=true&sd=true) </p>
 <p> - подготовлена майнд карта сайта (https://app.popplet.com/#/p/7422188) </p>
-<p> - проведено smoke-тестирование ([https://docs.google.com/spreadsheets/d/12Wz-8HN_oIQiiaR77GrUFcunWlgle7Nc/edit?usp=sharing&ouid=108477592822745695092&rtpof=true&sd=true](https://docs.google.com/document/d/1TNnBhQ33qpKUHdH27vHO4zyZNLsFJMX6/edit?usp=sharing&ouid=108477592822745695092&rtpof=true&sd=true)</p>
+<p> - проведено smoke-тестирование (https://docs.google.com/document/d/1TNnBhQ33qpKUHdH27vHO4zyZNLsFJMX6/edit?pli=1)</p>
 <p>2. На втором этапе проводился <b><i>тестовый дизайн</i></b>: проектировались чек-листы и тест кейсы для каждого полноценного тестирования интернет-магазина. </p>
 <p>- Для функционального тестирования было запланировано 236 проверок, из них 211 были проведены. Остальные 25 проверок (относятся к тестированию оплаты заказа) не проводились в связи с отсутствием необходимого опыта тестировщика конкретно для данных проверок. </p>
 <p>- Для UX/UI тестирования использовался чек лист из 30 проверок, все успешно прошли. </p>
